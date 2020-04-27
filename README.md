@@ -1,6 +1,6 @@
 ## Learning Objectives ##
 
-Hands-on lab: Aggregating and Analyzing Data with Elastic Stack Modules
+Hands-on lab: [Aggregating and Analyzing Data with Elastic Stack Modules](https://app.linuxacademy.com/hands-on-labs/3c2eb522-979e-4ca2-96bb-3462626421be?redirect_uri=https:%2F%2Flinuxacademy.com%2Fcp%2Fmodules%2Fview%2Fid%2F503)
 
 What is Elastic Stack?
   - Elastic Stack is a group of open source products from Elastic designed to help users take data from any type of source and in any format and search, analyze, and visualize that data in real time
